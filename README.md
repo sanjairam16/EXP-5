@@ -28,10 +28,14 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+#CIRUIT DIAGRAM:
+![EXP-5 PAGE-IMG](https://github.com/user-attachments/assets/02d4e3bc-cf1f-44f5-8392-e8da5bdb6c4a)
+![EXP-5 PAGW-1](https://github.com/user-attachments/assets/d56cca49-7939-4126-9d95-2eaa33ba8722)
+![EXP-5 PAGE-2](https://github.com/user-attachments/assets/df7bf08a-8238-49bc-9e8c-fd64d14b12ff)
+![EXP-5 PAGE-3](https://github.com/user-attachments/assets/e5373c3e-db68-4eb0-a1cf-96a22f4aa970)
 
-REGULATION CHARACTERISTICS:
 
-V-I & REGULATION CHARACTERISTICS:
+
 
 PRECAUTIONS:
 
