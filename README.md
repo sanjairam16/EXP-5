@@ -3,7 +3,7 @@ EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
 AIM
 . To find the Zener Break down voltage regulation condition.
-
+ 
 APPARATUS:
 
 S.No	Name of the Apparatus	Range	Quantity
